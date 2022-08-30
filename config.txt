@@ -1,0 +1,30 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxf809baa065b55061",
+# 公众号appSecret
+"app_secret": "4cac51f2f686b44e10330ee4a4b34a0e",
+# 模板消息id
+"template_id": "	DFTVlJw0tIInMMUtJwarQTX4neEx44ssdTOgmCK1jYU",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oW_py6FnUW25SiT_FAuZWyaSkv2I"，"oW_py6Jh0-ZFM2d_mHZ16s_Scews"],
+
+# 信息配置
+# 所在省份
+"province": "广东",
+# 所在城市
+"city": "深圳",
+#和风天气apikey
+"weather_key":"82d1cb27491e41f0a54e5e0134b13c6d",
+# 所在省份
+"region": "深圳市",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "崽崽", "birthday": "r1997-12-04"},
+# 生日2
+"birthday2": {"name": "乖乖", "birthday": "r2001-11-15"},
+# 在一起的日子，格式同上
+"love_date": "2021-04-28"
+
+# 金句中文
+"note_ch": "",
+}
